@@ -11,7 +11,7 @@ namespace DisableCalamities
         public const string PLUGIN_DESCRIPTION = "Disables Calamities, uses modding player profile.";
         public const string PLUGIN_ORIGINAL_AUTHOR = "Dragon";
         public const string PLUGIN_AUTHORS = "Dragon";
-        public const string PLUGIN_THUNDERSTORE_ID = "";
+        public const string PLUGIN_THUNDERSTORE_ID = "NihilityShift/Disable_Calamities";
     }
 }
 #pragma warning restore CS1591
