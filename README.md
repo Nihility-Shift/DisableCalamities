@@ -2,9 +2,9 @@
 ![](https://img.shields.io/badge/Game%20Version-1.3.0-111111?style=flat&labelColor=24292f&color=111111)
 [![](https://img.shields.io/discord/1180651062550593536.svg?&logo=discord&logoColor=ffffff&style=flat&label=Discord&labelColor=24292f&color=111111)](https://discord.gg/g2u5wpbMGu "Void Crew Modding Discord")
 
-# DisableCalamities
+# Disable Calamities
 
-Version 0.0.0  
+Version 1.0.0  
 For Game Version 1.3.0  
 Developed by Dragon  
 Requires:  BepInEx-BepInExPack-5.4.2305, NihilityShift-VoidManager-1.2.11
@@ -14,24 +14,15 @@ Requires:  BepInEx-BepInExPack-5.4.2305, NihilityShift-VoidManager-1.2.11
 
 ### 💡 Function(s)
 
-- Disables Calamities, uses modding player profile.
+- Disables calamity Generation/Assignment to Sectors.
+- Switches Modding profile.
 
 ### 🎮 Client Usage
 
-- 
+- Install.
 
 ### 👥 Multiplayer Functionality
 
-# Note to mod developer: Remove all but those which match, and describe any custom functionality.
-- ✅ Client
-  - Only the client needs this mod.
-- ✅ Host
-  - Only the host needs this mod.
-- ✅ Session
-  - Requires the room to be marked as Mod_Session for functionality.
-  - Requires the room to be marked as Mod_Session for joining.
-  - Marks the room as Mod_Session when starting session as host.
-  - Marks the room as Mod_Session when hosting.
 - ✅ All
   - All players must have this mod installed.
 

@@ -6,8 +6,8 @@ namespace DisableCalamities
     {
         public const string PLUGIN_GUID = $"{PLUGIN_ORIGINAL_AUTHOR}.{PLUGIN_NAME}";
         public const string PLUGIN_NAME = "DisableCalamities";
-        public const string USERS_PLUGIN_NAME = "DisableCalamities";
-        public const string PLUGIN_VERSION = "0.0.0";
+        public const string USERS_PLUGIN_NAME = "Disable Calamities";
+        public const string PLUGIN_VERSION = "1.0.0";
         public const string PLUGIN_DESCRIPTION = "Disables Calamities, uses modding player profile.";
         public const string PLUGIN_ORIGINAL_AUTHOR = "Dragon";
         public const string PLUGIN_AUTHORS = "Dragon";
